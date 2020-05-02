@@ -1,7 +1,7 @@
 #ifndef _XTERM_H
 #define _XTERM_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t XTerm[];

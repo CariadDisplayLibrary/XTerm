@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::XTerm 
 
-![XTerm](https://raw.githubusercontent.com/DisplayCore/XTerm/master/Preview/XTerm.png)
+![XTerm](https://raw.githubusercontent.com/Cariad/XTerm/master/Preview/XTerm.png)
 

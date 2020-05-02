@@ -1,0 +1,4 @@
+library.json libraries/Cariad/XTerm
+library.properties libraries/Cariad/XTerm
+README.md libraries/Cariad/XTerm
+src libraries/Cariad/XTerm
